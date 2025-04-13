@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🔛I'm currently working on GEN -AI projects.<br>👫🏽I'm looking to collaborate on the GEN-AI projects.<br>💡I'm currently learning C sharp.<br>💬Ask me about MYSELF.<br>✨Fun fact: 🤐 No more awkward silences.
+🔛I'm currently working on GEN -AI projects.<br>👫🏽I'm looking to collaborate on the GEN-AI projects.<br>💡I'm currently learning C sharp.<br>💬Ask me about MYSELF.<br>📫 How to reach me: Ahh! Look Down.<br>😄 Pronouns: he/him.<br>✨Fun fact: 🤐 No more awkward silences.
 
 
 ## 🌐 Socials:
